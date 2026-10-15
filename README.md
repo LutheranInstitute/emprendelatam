@@ -8,6 +8,6 @@
 3. **Constituye** tu LLC con doola: https://partnersps.doola.com/hhsoqhb23250
 4. **Evidencia** → tu primer producto publicado.
 
-Aprende primero en [`elearnlatam`](https://github.com/yaeleureka-afk/elearnlatam).
+Aprende primero en [`elearnlatam`](https://github.com/LutheranInstitute/elearnlatam).
 
 #emprendelatam #startabusiness
